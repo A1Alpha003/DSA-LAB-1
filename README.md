@@ -6,7 +6,9 @@ Create a C++ program to display your information according to format shown in fo
 
 
 Registration No.:	1234
+
 Name: 			M. Kashif 
+
 Degree Program: 	BSSE
 
 
