@@ -2,9 +2,15 @@
 Task 1: Basic Input Output 				 
 Perform following basic input / output operations. 
 Part A:  		
-Create a C++ program to display your information according to format shown in following example. 
+Create a C++ program to display your information according to format shown in following example.
+
+
 Registration No.:	1234
+
+
 Name: 			M. Kashif 
+
+
 Degree Program: 	BSSE
 Part B:  										        
 Modify above created program and take information from user and display it. 
