@@ -29,11 +29,16 @@ Write a program that asks the user to enter five numbers. The program should det
 Part B:  										        
 A professor generates letter grades using the following table. 
 
-Percentage 	Grade 
+Percentage 	Grade
+
 0 – 60	F
+
 61 – 70	D
+
 71 – 80	C
+
 81 – 90	B
+
 91 – 100	A
 
 
@@ -41,8 +46,11 @@ Write a program that accepts a numeric grade and displays the corresponding lett
 
 
 Last digit 	Modifier 
+
 1 – 3 	-
+
 4 – 7	<blank>
+
 8 – 0	+
 
 
