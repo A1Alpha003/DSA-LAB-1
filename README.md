@@ -6,16 +6,18 @@ Create a C++ program to display your information according to format shown in fo
 
 
 Registration No.:	1234
-
-
 Name: 			M. Kashif 
-
-
 Degree Program: 	BSSE
+
+
 Part B:  										        
 Modify above created program and take information from user and display it. 
+
+
 Part C:  										
 Create a C++ program to exhibit basic calculator, take two numbers form user and display their sum, subtraction, multiplication and division. 
+
+
 Part D:  					
 In mathematics we deals with quadratic equation a lot. We know the formula to solve the quadratic equation. Write a C++ program to find roots of any quadratic equation. Take values of a, b & c from user and display the roots of quadratic equation. 
 
@@ -31,13 +33,21 @@ Percentage 	Grade
 71 – 80	C
 81 – 90	B
 91 – 100	A
+
+
 Write a program that accepts a numeric grade and displays the corresponding letter grade. 
+
+
 Last digit 	Modifier 
 1 – 3 	-
 4 – 7	<blank>
 8 – 0	+
+
+
 Modify the previous program to print out a + or - after the letter grade based on the last digit of the score. The modifiers are listed in the table on the right. 
 For example, 81=B-, 94=A, and 68=D+. Note that an F is only an F; there is no F+ or F-. 
+
+
 Part C:  										        
 Suppose that you are working for AbasynTel company and your boss has asked you to make the billing software as per the following description:
 Each call is going to be charged at the rate of 10 Rs per call if number of calls is less than 100. If the number of calls is greater than 100 then each call will be charged at 9 Rs.
